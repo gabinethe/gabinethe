@@ -16,7 +16,11 @@
 
 <div align="center">
 
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2C9F&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools;!+:%29)](https://git.io/typing-svg)
+
+<br/>
 
 </div>
 
