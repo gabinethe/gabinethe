@@ -14,7 +14,8 @@
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2C9F&size=35&center=true&vCenter=true&width=1000&lines=Languages+and+Tools;!+:%29)](https://git.io/typing-svg)
+
 
 <p>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
@@ -30,7 +31,8 @@
 
 <br/>
 
-<h3 align="center">Connect with me:</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2C9F&size=35&center=true&vCenter=true&width=1000&lines=Conect+with+me!;!+:%29)](https://git.io/typing-svg)
+
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriela-chagas-santos-062a86226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
 </p>
