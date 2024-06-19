@@ -2,14 +2,20 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2C9F&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gabi.;I'm+22+years+old;I'm+from+Brasil,+SP;!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2C9F&size=40&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gabi.;I'm+22+years+old;I'm+from+Brasil,+SP;!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=true&title_color=7B2C9F&icon_color=7B2C9F&text_color=00bfbf&bg_color=0d1117" alt="Gabriela Chagas github stats" /> 
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=true&title_color=7B2C9F&text_color=00bfbf&bg_color=0d1117" />
+  
+  <br/>
+  
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabinethe&&theme=tokyonight" alt="gabinethe" />
+
+  <br/>
+  
 </div>
 
 <br/>
@@ -67,7 +73,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gabriela-chagas-santos-062a86226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriela-chagas-santos-062a86226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/gabinethe_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/>
 
