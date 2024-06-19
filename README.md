@@ -7,15 +7,13 @@
 <br/>
 
 <div align="center">  
-  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=true&title_color=4b0082&icon_color=EBC637&text_color=8186B4&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=true&title_color=4b0082&text_color=8186B4&bg_color=00000000" />
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=true&title_color=993DD0&icon_color=EBC637&text_color=8186B4&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=true&title_color=993DD0&text_color=8186B4&bg_color=00000000"/>
   
   <br/>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabinethe&border=00000000&background=00000000&fire=FF0000&ring=993DD0&stroke=4A0A5B&currStreakNum=EAFC38&sideNums=8186B4&sideLabels=8098A0&currStreakLabel=82A5BB&dates=E2E72A&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
-
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabinethe&&theme=shadow-purple" alt="gabinethe" />
 
   <br/>
   
