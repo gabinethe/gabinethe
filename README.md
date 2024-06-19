@@ -27,6 +27,9 @@
 <br/>
 
 <div align="center">
+
+<br/>
+
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a>
 <a> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>
@@ -36,6 +39,9 @@
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
 <a> <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="60" height="60"/> </a>
+
+<br/>
+
 </div>
 
 <br/>
@@ -45,7 +51,13 @@
 <br/>
 
 <div align="center">
+
+<br/>
+
 <a href="https://www.linkedin.com/in/gabriela-chagas-santos-062a86226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="profile linkedin" height="30" width="40" /></a>
+
+<br/>
+
 </div>
 
 <br/>
