@@ -7,8 +7,8 @@
 <br/>
 
 <div align="center">  
-  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=false&title_color=7B2C9F&icon_color=7B2C9F&text_color=00bfbf&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=false&title_color=7B2C9F&text_color=00bfbf&bg_color=00000000" />
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=false&title_color=512888&icon_color=ffff00&text_color=808080&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=false&title_color=512888&text_color=808080&bg_color=00000000" />
   
   <br/>
   
