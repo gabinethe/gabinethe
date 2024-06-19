@@ -1,17 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512888&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=header"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512888&size=40&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gabriela+Chagas.;I'm+22+years+old...;...and+i'm+from+Brasil,+SP;!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b0082&size=40&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gabriela+Chagas.;I'm+22+years+old...;...and+i'm+from+Brasil,+SP;!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
 <div align="center">  
-  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=false&title_color=512888&icon_color=ffff00&text_color=808080&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=false&title_color=512888&text_color=808080&bg_color=00000000" />
+  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=true&title_color=4b0082&icon_color=EBC637&text_color=8186B4&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=true&title_color=4b0082&text_color=8186B4&bg_color=00000000" />
   
   <br/>
-  
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gabinethe&border=00000000&background=00000000&fire=FF0000&ring=993DD0&stroke=4A0A5B&currStreakNum=EAFC38&sideNums=8186B4&sideLabels=8098A0&currStreakLabel=82A5BB&dates=E2E72A&excludeDaysLabel=EB5454)](https://git.io/streak-stats)
+
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabinethe&&theme=shadow-purple" alt="gabinethe" />
 
   <br/>
@@ -24,7 +27,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512888&size=30&center=true&vCenter=true&width=1000&lines=Languages+and+Skills:;!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b0082&size=30&center=true&vCenter=true&width=1000&lines=Languages+and+Skills:;!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -61,7 +64,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=512888&size=30&center=true&vCenter=true&width=1000&lines=Connect+with+me!;!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b0082&size=30&center=true&vCenter=true&width=1000&lines=Connect+with+me!;!+:%29)](https://git.io/typing-svg)
 
 <br/>
 
@@ -82,4 +85,4 @@
 
 <br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=512888&&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4b0082&height=120&section=footer"/>
