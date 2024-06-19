@@ -73,7 +73,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gabriela-chagas-santos-062a86226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a [go] (https://www.linkedin.com/in/gabriela-chagas-santos-062a86226){:target="_blank" rel="noopener"}><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/gabinethe_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/>
