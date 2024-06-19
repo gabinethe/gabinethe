@@ -12,7 +12,7 @@
   
   <br/>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabinethe&&theme=dark" alt="gabinethe" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabinethe&&theme=shadow-purple" alt="gabinethe" />
 
   <br/>
   
