@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993DD0&font=nunito&size=40&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Gabriela+Chagas.;I'm+22+years+old...;...and+i'm+from+Brasil,+SP;!+:%29)](https://git.io/typing-svg)
 
 
-  <img width="52%" height="200px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&show_icons=true&count_private=true&hide_border=false&border_radius=30&border_color=4b0082&title_color=993DD0&icon_color=EBC637&text_color=808080&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
+  <img width="52%" height="200px" src="https://github-readme-stats.vercel.app/api?username=gabinethe&include_all_commits=true&show_icons=true&count_private=true&hide_border=false&border_radius=30&border_color=4b0082&title_color=993DD0&icon_color=EBC637&text_color=808080&bg_color=00000000" alt="Gabriela Chagas github stats" /> 
   <img width="46%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabinethe&layout=compact&hide_border=false&border_radius=15&border_color=4b0082&title_color=993DD0&text_color=808080&bg_color=00000000"/>
   
 
