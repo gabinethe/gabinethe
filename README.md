@@ -35,7 +35,7 @@
     
 </a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b0082&font=nunito&size=30&center=true&vCenter=true&width=1000&lines=Connect+with+me!;!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993DD0&font=nunito&size=30&center=true&vCenter=true&width=1000&lines=Connect+with+me!;!+:%29)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/gabriela-chagas-santos-062a86226" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/gabinethe_" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
